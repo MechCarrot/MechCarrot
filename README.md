@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MechCarrot
-- 👀 I’m interested in Programming, DevOps
+- 👀 I’m interested in Programming, DevSecOps
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Golang CLI's and microservices
+- 💞️ I’m looking to collaborate on Microservices, DevOps util's
